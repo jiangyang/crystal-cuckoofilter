@@ -1,5 +1,7 @@
 # cuckoofilter
 
+[![Build Status](https://travis-ci.org/jiangyang/crystal-cuckoofilter.svg?branch=master)](http://travis-ci.org/jiangyang/crystal-cuckoofilter)
+
 a cuckoo filter, largely based on [this go library](https://github.com/tylertreat/BoomFilters/blob/master/cuckoo.go)
 
 ## Installation
