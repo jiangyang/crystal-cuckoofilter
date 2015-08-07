@@ -38,4 +38,4 @@ f.reset
 
 ## Contributors
 
-- [your-github-name](https://github.com/[your-github-name]) Yang - creator, maintainer
+- [Yang](https://github.com/jiangyang) Yang - creator, maintainer
